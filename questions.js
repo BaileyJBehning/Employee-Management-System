@@ -1,7 +1,7 @@
 // const optionArr = [
 //     {
 //         type: 'list',
-//         message: 'Please select an option:',
+//         message: 'Please choose an option:',
 //         choices: ['View All Departments', 'View All Roles', 'View All Employees', 'Add a Department', 'Add a Role', 'Add an Employee', 'Update an Employee Role', 'Terminate Application',],
 //         name: 'optionSelect',
 //     },
